@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dasa:dasa123@cluster0.uo9ih.mongodb.net/dasa?retryWrites=true&w=majority",
+    "jwtSecret": "NAqRHF48QTo0ky6WBLIO5JcCtmlgVUuEz3GwDeYsMpbK2vnfdxjhra7SP9X1Zi"
+}
